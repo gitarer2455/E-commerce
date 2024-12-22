@@ -1,7 +1,7 @@
 # E-commerce
 an ecommerce clone project on insa summer camp journey
 
-During the summer camp at INSA (Information Network Security Agency) in collaboration with Addis Ababa science and technology University, I worked on an exciting eCommerce app cloning project. The primary goal was to replicate the functionality of a popular eCommerce platform, using Python and Django for the backend, along with HTML, CSS for the frontend, and MySQL as the database management system.
+During the summer camp at INSA (Information Network Security Agency) in collaboration with Addis Ababa science and technology University, I worked on an exciting eCommerce app cloning project on developer teams. The primary goal was to replicate the functionality of a popular eCommerce platform, using Python and Django for the backend, along with HTML, CSS for the frontend, and MySQL as the database management system.
 
 The project started with gathering all the necessary requirements for building a functional eCommerce platform. I focused on implementing key features such as product listings, user registration, login/logout, shopping cart management, and an order management system. Django, known for its robust framework and scalability, was used to handle the backend logic, including user authentication and interaction with the database.
 
